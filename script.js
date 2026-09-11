@@ -1,6 +1,6 @@
 //your JS code here. If required
  let ul=document.createElement('ul');
-ul.id = 'bands';
+ul.id = 'band';
 let band=['The Plot in You', 'The Devil Wears Prada', 'Pierce the Veil', 'Norma Jean', 'The Bled', 'Say Anything', 'The Midway State', 'We Came as Romans', 'Counterparts', 'Oh, Sleeper', 'A Skylit Drive', 'Anywhere But Here', 'An Old Dog']
    band.sort((a,b)=>{
 	     let aWord=a.split(' ');
