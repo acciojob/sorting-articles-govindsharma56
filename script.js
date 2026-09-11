@@ -18,7 +18,7 @@ let band=['The Plot in You', 'The Devil Wears Prada', 'Pierce the Veil', 'Norma 
       li.textContent=item;
    ul.append(li);
 
-})
+};
 document.body.append(ul);
 
 
